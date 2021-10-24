@@ -1,0 +1,5 @@
+python-binance
+requests
+json
+time
+pandas
